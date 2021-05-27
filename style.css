@@ -1,0 +1,9 @@
+.text {
+  color:aqua;
+  font-size:130%;
+}
+
+#text-id {
+  font-family:monospace;
+  color:blue;
+}
